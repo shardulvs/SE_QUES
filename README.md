@@ -1,3 +1,16 @@
+<!-- Images Section -->
+<p align="center">
+  <img src="class_diagram.png" alt="Class Diagram" width="400"/>
+  <br/>
+  <img src="ganttchart.png" alt="Gantt Chart" width="400"/>
+</p>
+
+<p align="center">
+  <img src="uml1.png" alt="UML Diagram 1" width="250"/>
+  <img src="uml2.png" alt="UML Diagram 2" width="250"/>
+  <img src="uml3.png" alt="UML Diagram 3" width="250"/>
+</p>
+
 For this commercial flight simulator project, my target audience includes:
 
 1. Commercial airline training departments that need to certify new pilots and provide ongoing training for experienced pilots
