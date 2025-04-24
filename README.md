@@ -1,0 +1,8 @@
+1. [1. Software Versioning](./1.%20Software%20Versioning.md)
+2. [2. Continuous Integration (CI)](./2.%20Continuous%20Integration%20(CI).md)
+3. [3. Software Metrics](./3.%20Software%20Metrics.md)
+4. [4. Configuration Management](./4.%20Configuration%20Management.md)
+5. [5. Risk Analysis](./5.%20Risk%20Analysis.md)
+6. [6. Cost Analysis Estimation & Project Management](./6.%20Cost%20Analysis%20Estimation%20&%20Project%20Management.md)
+7. [7. Integrative Questions](./7.%20Integrative%20Questions.md)
+8. [8. Design and Analysis Questions](./8.%20Design%20and%20Analysis%20Questions.md)
